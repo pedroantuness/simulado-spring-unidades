@@ -92,7 +92,7 @@ Na sprint atual, você foi incumbido de fazer:
 
 **Fazer o fork do projeto do github e manter o desenvolvimento versionado no github.**:
 
-[https://github.com/Benefrancis/simulado-pg-unidades](https://github.com/Benefrancis/simulado-pg-unidades)
+[https://github.com/Benefrancis/simulado-spring-pg-unidades](https://github.com/Benefrancis/simulado-spring-pg-unidades)
 
 Caso o github esteja indisponível, você deverá pegar o projeto no diretório compartilhado.
 
@@ -196,7 +196,7 @@ Nos próximos dias, a correção da prova será disponibilizada no github do pro
 Para acessar digite no prompt:
 
 ```shell
-git clone https://github.com/Benefrancis/simulado-pg-entregas && cd simulado-pg-entregas && git checkout correcao
+git clone https://github.com/Benefrancis/simulado-spring-pg-unidades && cd simulado-spring-pg-unidades  && git checkout correcao
 ```
 
 
