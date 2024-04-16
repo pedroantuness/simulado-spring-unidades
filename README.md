@@ -5,7 +5,7 @@ SIMULADO PARA CP II - **Java Advanced** aplicado em 16/04/2024.
 
 | ![](documentacao/fiap.jpg)               | **Java Advanced** |
 |------------------------------------------|-------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPJ |
+| **ALUNO:**                               | **TURMA:** 2TDSPG |
 | **PROFESSOR:** Benefrancis do Nascimento | 16/04/2024        |
 | **SIMULADO PARA CP II**                  | ****              |
 
@@ -166,16 +166,16 @@ A dupla deverá criar e executar os testes no POSTMAN para todos os endpoints da
 
 # Diagrama de Classes de Entidade
 
-![classes.png](documentacao%2Fdiagramas%2Fclasses.png)
+![classes.png](documentacao/diagramas/classes.png)
 
 
 # Diagrama de Classes de Request
 
-![request.png](documentacao%2Fdiagramas%2Frequest.png)
+![request.png](documentacao/diagramas/request.png)
 
 # Diagrama de Classes de Response
 
-![response.png](documentacao%2Fdiagramas%2Fresponse.png)
+![response.png](documentacao/diagramas/response.png)
 
 
 <a id="_Entrega"></a>
